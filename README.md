@@ -1,2 +1,7 @@
 # Data-Structures-Lab-Code
-Course : Data Structures Lab . Department of CSE , University of Asia Pacific.
+
+Courses : 
+1. Data Structures.
+2. Data Structures Lab . 
+
+At Department of CSE , University of Asia Pacific.
